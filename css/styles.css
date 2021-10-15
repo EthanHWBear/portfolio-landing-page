@@ -25,7 +25,8 @@ h1 {
 
 h2 {
   text-align: center;
-  padding-bottom: 5%;
+  padding-bottom: 2%;
+  text-decoration: underline;
 }
 
 h4 {
@@ -77,4 +78,9 @@ li {
 
 .hl {
   padding-bottom: 10%;
+}
+
+.crn {
+  background-color: rgb(255, 237, 137);
+
 }

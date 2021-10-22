@@ -17,7 +17,7 @@ _{A website designed to showcase my progress as a coder and web/app developer. T
 
 #
 
-## https://github.com/EthanHWBear/portfolio-landing-page
+## https://ethanhwbear.github.io/portfolio-landing-page/
 
 #
 
@@ -36,4 +36,6 @@ _{A website designed to showcase my progress as a coder and web/app developer. T
 
 ## License
 
-Copyright (c) _October 15, 2021_ _Ethan Bear_
+[MIT](https://en.wikipedia.org/wiki/MIT_License)
+
+Copyright (c) 2021 Ethan Bear
